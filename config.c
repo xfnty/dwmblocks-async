@@ -4,8 +4,9 @@
 #include "util.h"
 
 Block blocks[] = {
-    {"dwmblocks-memory",  10,   1 },
+    // {"dwmblocks-memory",  10,   1 },
     {"dwmblocks-date",    1,    2},
+    {"dwmblocks-battery",    60,    3},
 };
 
 const unsigned short blockCount = LEN(blocks);
