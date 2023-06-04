@@ -5,7 +5,7 @@
 
 Block blocks[] = {
     // {"dwmblocks-memory",  10,   1 },
-    {"dwmblocks-date",    1,    2},
+    {"dwmblocks-time",    1,    2},
     {"dwmblocks-battery",    60,    3},
 };
 
